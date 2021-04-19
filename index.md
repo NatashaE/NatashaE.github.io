@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Hello, I am Natasha Edwards, a passionate software developer.
 
-You can use the [editor on GitHub](https://github.com/NatashaE/NatashaE.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+  It’s been just over two years since I started the Computer Science program at SNHU. I decided to earn my B.S. in Computer Science after I changed careers from a cook to computer program a few years ago. It was a personal goal of mine to earn a bachelor’s after only earning an Associate’s right after high school. 
+In my unique position of having already establishing a career as a software developer before attending college I was little worried I wouldn’t benefit as much. Fortunately, that hasn’t been the case and I have learned a lot of fun and important things like mathematics and graphics. I think the three most important things I’ve learned is linear algebra, the Linux operating system, and MongoDB. Linear algebra is very important to know to understand computers and computation. It also really helped when learning linear regressions in the Data Mining class. I also have an interest in machine learning which heavily relies on it. Learning the Linux system taught me a lot about command line which I’ve embraced fully since. I feel more in tuned with my computer and simple operations are faster especially when it comes to configurations. Learning MongoDB was great because I only had experience with relational databases. It’s another tool I’ve added and helped me really understand the difference in the two types of databases and why one is better at solving a problem versus the other. 
+As I’ve mentioned I transitioned into a software development role a few years, so computer science is what I do! I’m current working towards becoming a senior software developer. I’d like to move into a role that provides mentorship and more complex problems. I work for a company that provides data integrations for non-profit companies. We work in the cloud and continuously making the product better and for broader use. It’s challenging and rewarding. I’m technically a full-stack developer but I’d lean into frontend developed to strengthen my skills there and see if that would be more satisfying than backend work. I’d also like to explore data science and machine learning. I guess I am not really sure what I’d like to specialize in but I those topics pique my interest. I think if I dedicate some time after I graduate when I have extra time to these topics by doing projects that I’ll be able to find something to focus on that is worthwhile to me. 
+  
+#### Check out some of my work
+* ##### [Code Review] ()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NatashaE/NatashaE.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* ##### [CRUD Operations] ()
+  -This one-page application executes CRUD operations against a Mongo database, renders html and CSS, and performs other logic written in Python. The other logic includes filtering a table of data, displaying an interactive geolocation map, and a pie chart. I started working on this artifact last term for a CS-340, Client/Server development. I chose this artifact because it shows a full spectrum of skills from database to middleware to UI. I like that I can show my experience with a nonrelational database and also with python. The project is really neat in how it allows the user to filter data, and which then alters the pie chart to reflect the filtered data. When a user selects a row the geolocation map updates to place the marker on the location of the animal based on the animal’s location data. I implemented paging and made the application responsive. Different data structures were also used in the building. I used some great libraries as well including Dash, Dash Leaflet, NumPy, Plotly, and Pandas. I also had to consider security and make sure the data on the page could be manipulated to showcase false data. This artifact really shows the diversity in my skills and knowledge. Improvements were made to enhance data structures to make the filtering more efficient. The queries for the filters were also updated for better performance. Variable and function names were improved to help with readability.  Commented out code and unconstructive comments were deleted. Constructive comments were added to help with readability.
+  
+* ##### [Zoo Animals] ()
+  - The artifact is one that I worked on in IT-145, Foundation in App Development, last year. It is an app that helps zookeepers monitor animals. The artifact is written in Java and use read and write functions to get input and render correct responses. This artifact displays my skills in Java and with inputs and outputs. Unlike the first artifact this app uses different data structures like while loops and uses scanners and buffers. The enhancements included updating while loops, variable names and comments.
